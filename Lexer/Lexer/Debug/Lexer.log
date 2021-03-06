@@ -1,0 +1,18 @@
+﻿  Lexer.cpp
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(55,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(65,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(75,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(85,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(95,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(105,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(115,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(125,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(153,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(167,10): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(177,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(211,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(332,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(354,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(382,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Lexer\Lexer.cpp(438,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Lexer.vcxproj -> C:\Users\Руслан\Documents\LexingAnalysis\Lexer\Debug\Lexer.exe

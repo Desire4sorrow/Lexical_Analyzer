@@ -1,0 +1,20 @@
+id: 4 integer: 3456
+id: 5 char: "f"
+id: 4 integer: 987
+id: 14 hex num: 0h546FA
+id: 3 indentifier: ldldl
+id: 6 string: "dfhd"
+id: 3 indentifier: lalal
+id: 6 string: "djfkfdj"
+id: 3 indentifier: i
+id: 9 operation: =
+id: 4 integer: 56
+id: 9 operation: +
+id: 4 integer: 90
+id: 7 real: 9.098
+id: 8 float: 9.098e-56
+id: 10 separation: {
+id: 5 char: "l"
+id: 4 integer: 5778
+id: 13 octal num: 0o76546
+id: 6 string: "jfd"
